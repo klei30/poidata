@@ -1,0 +1,304 @@
+POI DATA
+About
+Point of Interest Data
+Ground Truth at the Speed of Life
+Data Preview
+
+95,490,767 POI Records as of Sun Sep 10 2023
+ABOUT US
+⌘ Point of Interest (POI) is defined as an entity (such as a business) at a ground location (point) which may be (of interest).
+
+We provide high-quality POI data that is fresh, consistent, customizable, easy to use and with high-density coverage for all countries of the world.
+
+This is our process flow:
+
+Our machine learning systems continuously crawl for new POI data
+Our geoparsing and geocoding calculates their geo locations
+Our categorization systems cleanup and standardize the datasets
+Our data pipeline API publishes the datasets on our data store
+A new POI comes into existence. It could be a bar, a stadium, a museum, a restaurant, a cinema, or store, etc.. In today's interconnected world its information will appear very quickly in social media, pictures, websites, press releases. Soon after that, our systems will pick it up.
+
+Poi extraction process
+POI Data is in constant flux. Every minute worldwide over 200 businesses will move, over 600 new businesses will open their doors and over 400 businesses will cease to exist. And over 94% of all businesses have a public online presence of some kind tracking such changes. When a business changes, their website and social media presence will change too. We'll then extract and merge the new information, thus creating the most accurate and up-to-date business information dataset across the globe.
+
+We offer our customers perpetual data licenses for any dataset representing this ever changing information, downloaded at any given point in time. This makes our company's licensing model unique in the current Data as a Service - DaaS Industry. Our customers don't have to delete our data after the expiration of a certain "Term", regardless of whether the data was purchased as a one time snapshot, or via our data update pipeline.
+
+Customers requiring regularly updated datasets may subscribe to our Annual subscription plans. Our data is continuously being refreshed, therefore subscription plans are recommended for those who need the most up to date data. The main differentiators between us vs the competition are our flexible licensing terms and our data freshness.
+
+POI DATA
+ 95,490,767 worldwide poi records as of Sun Sep 10 2023
+🇦🇱 Albania
+Around Me
+Estimated Coverage
+🇦🇫 Afghanistan 26129 | 97%
+🇦🇽 Aland Islands 1154 | 99%
+🇦🇱 Albania 52456 | 92%
+🇩🇿 Algeria 306511 | 95%
+🇦🇸 American Samoa 140 | 99%
+🇦🇩 Andorra 2522 | 93%
+🇦🇴 Angola 25299 | 91%
+🇦🇮 Anguilla 470 | 93%
+🇦🇶 Antarctica 86 | 94%
+🇦🇬 Antigua and Barbuda 2433 | 95%
+🇦🇷 Argentina 1147023 | 98%
+🇦🇲 Armenia 20980 | 87%
+🇦🇼 Aruba 3506 | 99%
+🇦🇺 Australia 809559 | 97%
+🇦🇹 Austria 425746 | 92%
+🇦🇿 Azerbaijan 46768 | 93%
+🇧🇸 Bahamas 8352 | 95%
+🇧🇭 Bahrain 23590 | 93%
+🇧🇩 Bangladesh 535009 | 98%
+🇧🇧 Barbados 6603 | 94%
+🇧🇾 Belarus 117248 | 79%
+🇧🇪 Belgium 485408 | 95%
+🇧🇿 Belize 11963 | 87%
+🇧🇯 Benin 22125 | 89%
+🇧🇲 Bermuda 1056 | 88%
+🇧🇹 Bhutan 6561 | 92%
+🇧🇴 Bolivia 156520 | 94%
+🇧🇶 Bonaire 803 | 99%
+🇧🇦 Bosnia and Herzegovina 56805 | 93%
+🇧🇼 Botswana 9156 | 94%
+🇧🇷 Brazil 4761523 | 98%
+🇮🇴 British Indian Ocean Territory 388 | 98%
+🇻🇬 British Virgin Islands 780 | 92%
+🇧🇳 Brunei Darussalam 8259 | 92%
+🇧🇬 Bulgaria 140733 | 94%
+🇧🇫 Burkina Faso 22478 | 88%
+🇧🇮 Burundi 4985 | 85%
+🇰🇭 Cambodia 82532 | 97%
+🇨🇲 Cameroon 50718 | 85%
+🇨🇦 Canada 1395678 | 97%
+🇨🇻 Cape Verde 4647 | 90%
+🇰🇾 Cayman Islands 2065 | 93%
+🇨🇫 Central African Republic 1816 | 69%
+🇹🇩 Chad 4237 | 87%
+🇨🇱 Chile 320138 | 96%
+🇨🇳 China 10922711 | 98%
+🇨🇽 Christmas Island 50 | 98%
+🇨🇨 Cocos (Keeling) Islands 24 | 96%
+🇨🇴 Colombia 662240 | 96%
+🇰🇲 Comoros 1519 | 90%
+🇨🇬 Congo 7720 | 85%
+🇨🇰 Cook Islands 1009 | 94%
+🇨🇷 Costa Rica 172873 | 94%
+🇭🇷 Croatia 183868 | 95%
+🇨🇺 Cuba 48961 | 80%
+🇨🇼 Curaçao 3843 | 99%
+🇨🇾 Cyprus 45987 | 94%
+🇨🇿 Czech Republic 393402 | 95%
+🇨🇮 Côte d'Ivoire 61748 | 86%
+🇩🇰 Denmark 239834 | 95%
+🇩🇯 Djibouti 1238 | 87%
+🇩🇲 Dominica 1393 | 92%
+🇩🇴 Dominican Republic 163812 | 97%
+🇪🇨 Ecuador 346245 | 94%
+🇪🇬 Egypt 595754 | 98%
+🇸🇻 El Salvador 79692 | 96%
+🇬🇶 Equatorial Guinea 1021 | 92%
+🇪🇷 Eritrea 1243 | 86%
+🇪🇪 Estonia 45156 | 96%
+🇪🇹 Ethiopia 65009 | 96%
+🇫🇰 Falkland Islands 171 | 93%
+🇫🇴 Faroe Islands 1343 | 93%
+🇫🇯 Fiji 5417 | 94%
+🇫🇮 Finland 201419 | 94%
+🇫🇷 France 2428496 | 92%
+🇬🇫 French Guiana 3211 | 99%
+🇵🇫 French Polynesia 4941 | 99%
+🇹🇫 French Southern Territories 10 | 85%
+🇬🇦 Gabon 5446 | 94%
+🇬🇲 Gambia 4232 | 94%
+🇬🇪 Georgia 54343 | 90%
+🇩🇪 Germany 3409030 | 91%
+🇬🇭 Ghana 133594 | 97%
+🇬🇮 Gibraltar 723 | 98%
+🇬🇷 Greece 384293 | 95%
+🇬🇱 Greenland 971 | 85%
+🇬🇩 Grenada 1876 | 93%
+🇬🇵 Guadeloupe 10291 | 99%
+🇬🇺 Guam 2721 | 99%
+🇬🇹 Guatemala 128381 | 96%
+🇬🇬 Guernsey 1929 | 93%
+🇬🇳 Guinea 12033 | 83%
+🇬🇼 Guinea-Bissau 998 | 92%
+🇬🇾 Guyana 7495 | 91%
+🇭🇹 Haiti 31273 | 75%
+🇭🇳 Honduras 72124 | 96%
+🇭🇰 Hong Kong 47563 | 99%
+🇭🇺 Hungary 326114 | 93%
+🇮🇸 Iceland 12241 | 91%
+🇮🇳 India 11677043 | 99%
+🇮🇩 Indonesia 6147506 | 99%
+🇮🇷 Iran 756770 | 96%
+🇮🇶 Iraq 246878 | 93%
+🇮🇪 Ireland 141193 | 96%
+🇮🇲 Isle of Man 2636 | 91%
+🇮🇱 Israel 133658 | 97%
+🇮🇹 Italy 2572634 | 96%
+🇯🇲 Jamaica 25539 | 95%
+🇯🇵 Japan 4045037 | 96%
+🇯🇪 Jersey 2339 | 91%
+🇯🇴 Jordan 83403 | 98%
+🇰🇿 Kazakhstan 110507 | 89%
+🇰🇪 Kenya 201502 | 97%
+🇰🇮 Kiribati 476 | 83%
+Kosovo 20506 | 86%
+🇰🇼 Kuwait 38810 | 96%
+🇰🇬 Kyrgyzstan 27728 | 86%
+🇱🇦 Lao PDR 28989 | 95%
+🇱🇻 Latvia 47266 | 93%
+🇱🇧 Lebanon 61725 | 95%
+🇱🇸 Lesotho 2985 | 85%
+🇱🇷 Liberia 7887 | 79%
+🇱🇾 Libya 84905 | 93%
+🇱🇮 Liechtenstein 2444 | 96%
+🇱🇹 Lithuania 69873 | 95%
+🇱🇺 Luxembourg 25600 | 92%
+🇲🇴 Macao 2896 | 99%
+🇲🇬 Madagascar 20415 | 85%
+🇲🇼 Malawi 11053 | 93%
+🇲🇾 Malaysia 619577 | 97%
+🇲🇻 Maldives 7857 | 98%
+🇲🇱 Mali 23428 | 82%
+🇲🇹 Malta 20814 | 97%
+🇲🇭 Marshall Islands 329 | 96%
+🇲🇶 Martinique 6715 | 99%
+🇲🇷 Mauritania 10633 | 94%
+🇲🇺 Mauritius 22483 | 96%
+🇾🇹 Mayotte 1674 | 99%
+🇲🇽 Mexico 2623099 | 98%
+🇫🇲 Micronesia 680 | 93%
+🇲🇩 Moldova 36997 | 84%
+🇲🇨 Monaco 1324 | 94%
+🇲🇳 Mongolia 22550 | 84%
+🇲🇪 Montenegro 19907 | 95%
+🇲🇸 Montserrat 241 | 89%
+🇲🇦 Morocco 233660 | 97%
+🇲🇿 Mozambique 20201 | 94%
+🇲🇲 Myanmar 170339 | 96%
+🇳🇦 Namibia 14415 | 94%
+🇳🇷 Nauru 165 | 95%
+🇳🇵 Nepal 257141 | 92%
+🇳🇱 Netherlands 708146 | 95%
+Netherlands Antilles 483 | 99%
+🇳🇨 New Caledonia 3733 | 99%
+🇳🇿 New Zealand 176076 | 96%
+🇳🇮 Nicaragua 74931 | 94%
+🇳🇪 Niger 10453 | 87%
+🇳🇬 Nigeria 449928 | 99%
+🇳🇺 Niue 65 | 93%
+🇳🇫 Norfolk Island 135 | 99%
+🇰🇵 North Korea 2718 | 93%
+🇲🇰 North Macedonia 33551 | 95%
+🇲🇵 Northern Mariana Islands 1201 | 99%
+🇳🇴 Norway 202686 | 93%
+🇴🇲 Oman 63942 | 96%
+🇵🇰 Pakistan 775434 | 99%
+🇵🇼 Palau 436 | 91%
+🇵🇸 Palestinian Territory 29558 | 74%
+🇵🇦 Panama 72917 | 96%
+🇵🇬 Papua New Guinea 9727 | 91%
+🇵🇾 Paraguay 190736 | 98%
+🇵🇪 Peru 435660 | 96%
+🇵🇭 Philippines 1018497 | 94%
+🇵🇳 Pitcairn 16 | 92%
+🇵🇱 Poland 1127915 | 93%
+🇵🇹 Portugal 405669 | 95%
+🇵🇷 Puerto Rico 68660 | 99%
+🇶🇦 Qatar 34637 | 97%
+🇷🇴 Romania 313837 | 94%
+🇷🇺 Russian Federation 1705992 | 85%
+🇷🇼 Rwanda 11599 | 96%
+🇷🇪 Réunion 16224 | 99%
+🇬🇸 SGSSI 12 | 40%
+🇸🇭 Saint Helena 190 | 92%
+🇰🇳 Saint Kitts and Nevis 1681 | 84%
+🇱🇨 Saint Lucia 3726 | 83%
+🇵🇲 Saint Pierre and Miquelon 220 | 99%
+🇻🇨 Saint Vincent and Grenadines 1950 | 90%
+🇧🇱 Saint-Barthélemy 410 | 99%
+🇲🇫 Saint-Martin 880 | 99%
+🇸🇽 Saint-Martin 1001 | 99%
+🇼🇸 Samoa 1366 | 94%
+🇸🇲 San Marino 1142 | 97%
+🇸🇹 Sao Tome and Principe 727 | 94%
+🇸🇦 Saudi Arabia 515647 | 98%
+🇸🇳 Senegal 43930 | 94%
+🇷🇸 Serbia 136117 | 95%
+🇸🇨 Seychelles 1993 | 91%
+🇸🇱 Sierra Leone 6575 | 82%
+🇸🇬 Singapore 81209 | 97%
+🇸🇰 Slovakia 178963 | 93%
+🇸🇮 Slovenia 101345 | 95%
+🇸🇧 Solomon Islands 689 | 96%
+🇸🇴 Somalia 17993 | 98%
+🇿🇦 South Africa 586714 | 98%
+🇰🇷 South Korea 1561894 | 98%
+🇸🇸 South Sudan 2611 | 87%
+🇪🇸 Spain 1697334 | 95%
+🇱🇰 Sri Lanka 278147 | 97%
+🇸🇩 Sudan 71363 | 97%
+🇸🇷 Suriname 7739 | 92%
+🇸🇯 Svalbard and Jan Mayen Islands 75 | 98%
+🇸🇿 Swaziland 2039 | 95%
+🇸🇪 Sweden 291469 | 95%
+🇨🇭 Switzerland 396216 | 94%
+🇸🇾 Syria 84665 | 97%
+🇹🇼 Taiwan 547864 | 95%
+🇹🇯 Tajikistan 14697 | 88%
+🇹🇿 Tanzania 109543 | 86%
+🇹🇭 Thailand 1126119 | 98%
+🇹🇱 Timor-Leste 5365 | 98%
+🇹🇬 Togo 24147 | 84%
+🇹🇰 Tokelau 18 | 92%
+🇹🇴 Tonga 915 | 85%
+🇹🇹 Trinidad and Tobago 30177 | 94%
+🇹🇳 Tunisia 101514 | 96%
+🇹🇷 Turkey 1335213 | 98%
+🇹🇲 Turkmenistan 7472 | 87%
+🇹🇨 Turks and Caicos Islands 1299 | 94%
+🇹🇻 Tuvalu 90 | 98%
+🇺🇲 US Minor Outlying Islands 1 | %
+🇺🇬 Uganda 117771 | 85%
+🇺🇦 Ukraine 477967 | 88%
+🇦🇪 United Arab Emirates 169834 | 95%
+🇬🇧 United Kingdom 2122242 | 95%
+🇺🇸 United States of America 10152698 | 97%
+🇺🇾 Uruguay 98490 | 98%
+🇺🇿 Uzbekistan 88404 | 88%
+🇻🇺 Vanuatu 1753 | 84%
+🇻🇦 Vatican 2636 | 98%
+🇻🇪 Venezuela 233049 | 96%
+🇻🇳 Viet Nam 1309069 | 99%
+🇻🇮 Virgin Islands, US 2865 | 99%
+🇼🇫 Wallis and Futuna Islands 44 | 97%
+🇪🇭 Western Sahara 1106 | 99%
+🇾🇪 Yemen 102743 | 97%
+🇨🇩 Zaire 39093 | 79%
+🇿🇲 Zambia 28755 | 95%
+🇿🇼 Zimbabwe 27294 | 94%
+ 52456 records 2023-08-19
+
+
+
+Pricing: $0.01/row.
+ Download POI Data Sample Data
+
+ World
+
+The data we collect, manage and compile are from public sources, however, we retain compilation copyrights.
+You may use the purchased data for your own personal/business uses ONLY, not for redistribution, repackaging or resale.
+more on our Terms of use
+AL@poidata.xyz
+Leaflet | © OpenStreetMap contributors
++
+−
+3000 km
+2000 mi
+About Poi Data
+Poi Data provides comprehensive and up-to-date data on points of interest such as 52456 businesses and landmarks in Albania as of the last update on 2023-08-19 18:54:12, geocoded with rooftop accuracy.
+Copyright © 2021  
+POIDATA.xyz
+  LLC. All rights reserved.
